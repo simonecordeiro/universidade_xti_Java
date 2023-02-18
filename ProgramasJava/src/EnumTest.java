@@ -5,13 +5,13 @@ public class EnumTest {
 	
 	public static void andar(Medida medida, int total) {
 		if(medida == Medida.M) {
-			//...código
+			//...cï¿½digo
 		}
 	}
 
 	public static void main(String[] args) {
 		
-		System.out.println(PeçasXadrez.BISPO);
+	//	System.out.println(Peï¿½asXadrez.BISPO);
 		System.out.println(Medida.M.titulo);
 		
 		for(Medida m : Medida.values()) {

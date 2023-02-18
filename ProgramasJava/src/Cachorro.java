@@ -4,7 +4,7 @@ public class Cachorro {
 		
 	}
 	int tamanho;
-	String raça;
+//	String raï¿½a;
 		
 	void latir () {
 		System.out.println("Au, Au, Au!!");
