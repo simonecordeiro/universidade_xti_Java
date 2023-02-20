@@ -8,7 +8,7 @@ Link do Curso: https://youtu.be/NZDzuve7kho
 
 | Ordem         | Descrição | Duração |
 | ------------- |:-------------:|:-------------:|
-|	001	|	- [ ] Introdução	|	00:20:51	|	
+|	001	|	- [ ] **Introdução**:	|	00:20:51	|	
 |	002	|	- [ ] Hardware e Software	|	00:29:08	|	
 |	003	|	- [ ] Instalação e Configuração	|	00:28:34	|	
 |	004	|	- [ ] Hello World       	|	00:18:15	|	
