@@ -4,6 +4,7 @@ Curso do Youtube com 116 aulas de Java 8 com Lógica de Programação.
 
 Link do Curso: https://youtu.be/NZDzuve7kho
 
+<<<<<<< HEAD
 ## Lista de Vídeos
  
 | Ordem         | Descrição | Duração |
@@ -124,3 +125,6 @@ Link do Curso: https://youtu.be/NZDzuve7kho
 |	114	|	Teste Unitário com JUnit	|	00:14:05	|	
 |	115	|	TestSuite com JUnit	|	00:10:08	|	
 |	116	|	Conclusão	|	00:06:51	|	
+=======
+## Arquivos do Projeto
+>>>>>>> a0aa7f2c880b05d8487bce44b75238c80aaab7bf
